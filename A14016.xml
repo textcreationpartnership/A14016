@@ -558,9 +558,12 @@ among the Latines.</item>
             </div>
             <div type="part">
                <head>Now will I laye you downe the report of Frauncis Sforzino Vicentino, an Italian, as tou<g ref="char:EOLhyphen"/>ching the diuiſion and nature of Eagles, and ſo proceede to the Falcon.</head>
-               <figure>
-                  <figDesc>depiction of eagle</figDesc>
-               </figure>
+               <p>
+                  <pb n="22" facs="tcp:23404:17"/>
+                  <figure>
+                     <figDesc>depiction of eagle</figDesc>
+                  </figure>
+               </p>
                <p>THere are twoo ſortes of Eagles, that is to ſaye, the huge &amp; royall Eagle, whiche is the Haggart or Paſſenger.</p>
                <p>And a leſſe Eagle, whiche is a baſe and baſtarde Eagle in reſpect of the other.</p>
                <p>
